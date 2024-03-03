@@ -1,15 +1,5 @@
-import Button from "./Button";
-import Counter from "./counter";
+import ToDoList from "./ToDoList ";
 function App() {
- 
-  return (
-    <>
-       <Button/>
-       <Button/>
-       <Counter/>
-       </>
-
-   );
+  return <ToDoList/>;
 }
-
 export default App;

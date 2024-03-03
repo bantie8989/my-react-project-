@@ -10,80 +10,17 @@
   display: inline-block;
   margin: 5%;
 }
-img{
-  height: 200px;
-  border-radius: 50px;  
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-}
-.box{
-  border: 2px solid black ;
-  margin: 10px;
-  padding: 20px;
-  border-color: aqua;
-  color: brown;
-  width: 400px;
-  display: inline-block;
-}
-.wellcome-message{
-  background-color: rgb(26, 140, 26);
-  padding: 10px;
-  border-radius: 30px;
-  color: white;
-}
-.login-prompt{
-  background-color: rgb(227, 10, 10);
-  padding: 10px;
-  border: none;
-  border-radius: 30px;
-}
-.catagories{
-  background-color: rgb(76, 182, 76);
-  padding: 4px;
+h1{
   text-align: center;
-  color: white;
-  border: 2px solid brown;
- 
 }
-.catagories:hover{
-  cursor: pointer;
-  opacity: 70%;
+.color-display{
+  height: 300px;
+  text-align: center;
+  padding: 20px;
+}
+.option{
+  text-align: center;
 }
 
-.listItems{
-background-color: yellow;
-text-align: center;
-padding:4px;
-margin: 10px;
-border: 2px solid brown;
-}
-.listItems:hover{
-  cursor: pointer;
-  opacity: 70%;
-}
-.click-button{
-  background-color: blue;
-  width: 200px;
-  padding: 20px;
-  border: none;
-  border-radius: 10px;
-  font-weight: bolder;
-  font-size: 30px;
-}
-.click-button:hover{
-  opacity: 70%;
-  color: white;
-  transition: 1s;
-}
-.cart{
-  background-color: green;
-  padding: 5px;
-  color: white;
-}
-.cart:active{
-  font-size: 100px;
-  background-color: white;
-  color: green;
-}
 
 
